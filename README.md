@@ -1,17 +1,36 @@
-## Hello, I'm Seokyoung Hwang!
+# Hi, I'm Seokyoung Hwang 👋
+### Data Analyst | AI Specialist | Vancouver, WA (U.S. Permanent Resident)
 
-**AI Engineer | Data Scientist | Established in Vancouver, WA**
-
-I am a dedicated AI professional with a strong background in self-directed learning and academic excellence. Recently relocated to **Vancouver, WA (Greater Portland Area)** as a **U.S. Permanent Resident**, I am focused on building real-world AI solutions while preparing for my **Master's in Computer Science**.
-
-### Professional Summary
-* **Academic:** B.S. in Artificial Intelligence from Korea National Open University (Feb 2026).
-* **Status:** U.S. Green Card Holder (No visa sponsorship required).
-* **Goal:** Pursuing MS in CS (2027 intake) to specialize further in Financial AI and Computer Vision.
-
-### Open for Collaboration
-I am actively looking for **Freelance projects, Data Analysis roles, or AI Consulting** opportunities. My goal is to apply my technical expertise to help businesses solve data-driven challenges while I integrate into the U.S. tech ecosystem.
+I am a results-oriented Data Analyst dedicated to solving real-world problems through **Explainable AI (XAI)** and **Automated Logic**. My work focuses on creating high-impact data pipelines that ensure **financial integrity and operational efficiency.**
 
 ---
-**Contact:** [seokyoung.hwang@outlook.com]
-**LinkedIn:** [www.linkedin.com/in/seokyoung-hwang-ai]
+
+## 🚀 Key Projects
+
+### 🛡️ [Government Expenditure Fraud Detection (FDS)](https://github.com/Seokyoung-Hwang-AI/Fraud-Detection-System-Isolation-Forest-XGBoost))
+* **Goal**: Minimize budget leakage using a multi-layered audit system.
+* **Tech**: SQL, Isolation Forest, XGBoost, SHAP.
+* **Impact**: Achieved **0.98 Precision & Recall**, enabling auditors to focus on the **top 2% high-risk transactions**.
+
+### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
+* **Goal**: Identify at-risk customers to improve retention rates.
+* **Tech**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
+* **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
+
+### 👁️ [Sign Language Digit Classification (Computer Vision)](https://github.com/Seokyoung-Hwang-AI/Image-Classification-Transfer-Learning)
+* **Goal**:  Developed a deep learning system for sign language digit classification.
+* **Tech**: Python, TensorFlow, Keras, CNN, **Transfer Learning**
+* **Scalability**: Demonstrates expertise in **unstructured image data processing**, providing a foundation for real-time automated recognition and quality control systems.
+
+---
+
+## 🛠️ Technical Toolkit
+* **Languages**: Python, SQL (MySQL)
+* **Data Science**: Pandas, NumPy, Scikit-learn, XGBoost, **SHAP (XAI)**
+* **Deep Learning**: TensorFlow, Keras, **Transfer Learning**
+
+---
+
+## 📬 Connect with me
+* **LinkedIn**: [linkedin.com/in/seokyoung-hwang-ai](https://www.linkedin.com/in/seokyoung-hwang-ai)
+* **Email**: seokyoung.hwang@outlook.com
