@@ -8,12 +8,13 @@ I am a results-oriented Data Analyst dedicated to solving real-world problems th
 ## 🚀 Key Projects
 
 ### 🛡️ [Government Expenditure Fraud Detection (FDS)](https://github.com/Seokyoung-Hwang-AI/Fraud-Detection-System-Isolation-Forest-XGBoost))
+* 🚀 **[Live Demo on Streamlit Cloud](https://sh-government-fraud-detection-system.streamlit.app/)**
 * **Goal**: Minimize budget leakage using a multi-layered audit system.
 * **Tech**: SQL, Isolation Forest, XGBoost, SHAP.
 * **Impact**: Achieved **0.98 Precision & Recall**, enabling auditors to focus on the **top 2% high-risk transactions**.
 
 ### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
-* 🚀 **[Live Demo on Streamlit Cloud](https://sh-bank-churn-prediction-ensemble.streamlit.app/)**
+* 🚀 **[Live Demo on Streamlit Cloud](https://sh-bank-churn-prediction.streamlit.app/)**
 * **Goal**: Identify at-risk customers to improve retention rates.
 * **Tech**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
 * **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
