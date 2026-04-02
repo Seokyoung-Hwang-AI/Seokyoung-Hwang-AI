@@ -10,7 +10,7 @@ I am a results-oriented Data Analyst dedicated to solving real-world problems th
 ### 🛡️ [Government Expenditure Fraud Detection (FDS)](https://github.com/Seokyoung-Hwang-AI/Fraud-Detection-System-Isolation-Forest-XGBoost))
 * 🚀 **[Live Demo on Streamlit Cloud](https://sh-government-fraud-detection-system.streamlit.app/)**
 * **Goal**: Minimize budget leakage using a multi-layered audit system.
-* **Tech**: SQL, Isolation Forest, XGBoost, SHAP.
+* **Tech**: SQL, Isolation Forest, XGBoost, **SHAP (XAI)**.
 * **Impact**: Achieved **0.98 Precision & Recall**, enabling auditors to focus on the **top 2% high-risk transactions**.
 
 ### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
@@ -19,16 +19,16 @@ I am a results-oriented Data Analyst dedicated to solving real-world problems th
 * **Tech**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
 * **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
 
-### 👁️ [Sign Language Digit Classification (Computer Vision)](https://github.com/Seokyoung-Hwang-AI/Image-Classification-Transfer-Learning)
-* **Goal**:  Developed a deep learning system for sign language digit classification.
-* **Tech**: Python, TensorFlow, Keras, CNN, **Transfer Learning**
-* **Scalability**: Demonstrates expertise in **unstructured image data processing**, providing a foundation for real-time automated recognition and quality control systems.
+### 👁️ [Industrial Surface Defect Detection (Computer Vision)](https://github.com/Seokyoung-Hwang-AI/Image-Classification-Transfer-Learning/tree/main/02_Industrial_Defect_Detection)
+* **Goal**:  Developed an automated inspection system for 6 steel defect types.
+* **Tech**: Python, TensorFlow, Keras, CNN, Transfer Learning, **Grad-CAM (XAI)**.
+* **Impact**: Deployed a production-ready dashboard providing **visual evidence** for model decisions.
 
 ---
 
 ## 🛠️ Technical Toolkit
 * **Languages**: Python, SQL (MySQL)
-* **Data Science**: Pandas, NumPy, Scikit-learn, XGBoost, **SHAP (XAI)**
+* **Data Science**: Pandas, NumPy, Scikit-learn, XGBoost, **SHAP (XAI)**, **Grad-CAM (XAI)**
 * **Deep Learning**: TensorFlow, Keras, **Transfer Learning**
 
 ---
