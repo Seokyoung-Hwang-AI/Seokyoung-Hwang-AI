@@ -13,6 +13,7 @@ I am a results-oriented Data Analyst dedicated to solving real-world problems th
 * **Impact**: Achieved **0.98 Precision & Recall**, enabling auditors to focus on the **top 2% high-risk transactions**.
 
 ### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
+* 🚀 **[Live Demo on Streamlit Cloud](https://sh-bank-churn-prediction-ensemble.streamlit.app/)**
 * **Goal**: Identify at-risk customers to improve retention rates.
 * **Tech**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
 * **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
