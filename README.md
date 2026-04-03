@@ -20,6 +20,7 @@ I am a results-oriented Data Analyst dedicated to solving real-world problems th
 * **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
 
 ### 👁️ [Industrial Surface Defect Detection (Computer Vision)](https://github.com/Seokyoung-Hwang-AI/Image-Classification-Transfer-Learning/tree/main/02_Industrial_Defect_Detection)
+* 🚀 **[Live Demo on Streamlit Cloud](https://sh-industrial-surface-defect-detection.streamlit.app/)**
 * **Goal**:  Developed an automated inspection system for 6 steel defect types.
 * **Tech**: Python, TensorFlow, Keras, CNN, Transfer Learning, **Grad-CAM (XAI)**.
 * **Impact**: Deployed a production-ready dashboard providing **visual evidence** for model decisions.
