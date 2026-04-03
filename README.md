@@ -1,5 +1,5 @@
 # Hi, I'm Seokyoung Hwang 👋
-### Data Analyst | AI Specialist | Vancouver, WA (U.S. Permanent Resident)
+### Data Scientist & Analyst | ML & CV Specialist | XAI (SHAP, Grad-CAM) | U.S. Permanent Resident
 
 I am a results-oriented Data Analyst dedicated to solving real-world problems through **Explainable AI (XAI)** and **Automated Logic**. My work focuses on creating high-impact data pipelines that ensure **financial integrity and operational efficiency.**
 
