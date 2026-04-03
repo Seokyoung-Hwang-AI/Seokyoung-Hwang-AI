@@ -13,17 +13,17 @@ I am a results-oriented Data Analyst dedicated to solving real-world problems th
 * **Tech**: SQL, Isolation Forest, XGBoost, **SHAP (XAI)**.
 * **Impact**: Achieved **0.98 Precision & Recall**, enabling auditors to focus on the **top 2% high-risk transactions**.
 
-### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
-* 🚀 **[Live Demo on Streamlit Cloud](https://sh-bank-churn-prediction.streamlit.app/)**
-* **Goal**: Identify at-risk customers to improve retention rates.
-* **Tech**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
-* **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
-
 ### 👁️ [Industrial Surface Defect Detection (Computer Vision)](https://github.com/Seokyoung-Hwang-AI/Image-Classification-Transfer-Learning/tree/main/02_Industrial_Defect_Detection)
 * 🚀 **[Live Demo on Streamlit Cloud](https://sh-industrial-surface-defect-detection.streamlit.app/)**
 * **Goal**:  Developed an automated inspection system for 6 steel defect types.
 * **Tech**: Python, TensorFlow, Keras, CNN, Transfer Learning, **Grad-CAM (XAI)**.
 * **Impact**: Deployed a production-ready dashboard providing **visual evidence** for model decisions.
+
+### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
+* 🚀 **[Live Demo on Streamlit Cloud](https://sh-bank-churn-prediction.streamlit.app/)**
+* **Goal**: Identify at-risk customers to improve retention rates.
+* **Tech**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
+* **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
 
 ---
 
