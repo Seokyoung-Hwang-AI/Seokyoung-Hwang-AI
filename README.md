@@ -17,7 +17,7 @@ I am a results-oriented Data Scientist & Analyst dedicated to solving real-world
 * 🚀 **[Live Demo on Streamlit Cloud](https://sh-industrial-surface-defect-detection.streamlit.app/)**
 * **Goal**:  Developed an automated inspection system for 6 steel defect types.
 * **Tech**: Python, TensorFlow, Keras, CNN, Transfer Learning, **Grad-CAM (XAI)**.
-* **Impact**: Achieved **99% Accuracy & F1-score**, providing **visual evidence** for model decisions.
+* **Impact**: Achieved **99% Accuracy and F1-score**, providing **visual evidence** for model decisions.
 
 ### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
 * 🚀 **[Live Demo on Streamlit Cloud](https://sh-bank-churn-prediction.streamlit.app/)**
