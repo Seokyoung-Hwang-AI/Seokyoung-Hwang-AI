@@ -1,39 +1,40 @@
 # Hi, I'm Seokyoung Hwang 👋
-### Data Scientist & Analyst | ML & CV Specialist | XAI (SHAP, Grad-CAM) | U.S. Permanent Resident
+### AI & Solutions Engineer | XAI (SHAP, Grad-CAM) | U.S. Permanent Resident
 
-I am a results-oriented Data Scientist & Analyst dedicated to solving real-world problems through **Explainable AI (XAI)** and **Automated Logic**. My work focuses on creating high-impact data pipelines that ensure **financial integrity and operational efficiency.**
+I am an **AI & Solutions Engineer** dedicated to bridging the gap between complex machine learning models and real-world business strategy. With a strong background in **Artificial Intelligence (B.E.)** and **extensive professional domain expertise**, I build high-precision systems that ensure **financial integrity and operational efficiency.**
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Key Projects (Live Demos Available)
 
-### 🛡️ [Government Expenditure Fraud Detection (FDS)](https://github.com/Seokyoung-Hwang-AI/Fraud-Detection-System-Isolation-Forest-XGBoost))
-* 🚀 **[Live Demo on Streamlit Cloud](https://sh-government-fraud-detection-system.streamlit.app/)**
-* **Goal**: Minimize budget leakage using a multi-layered audit system.
-* **Tech**: SQL, Isolation Forest, XGBoost, **SHAP (XAI)**.
-* **Impact**: Achieved **0.98 Precision & Recall**, enabling auditors to focus on the **top 2% high-risk transactions**.
+### 🛡️ [Government Expenditure Fraud Detection (FDS)](https://github.com/Seokyoung-Hwang-AI/Fraud-Detection-System-Isolation-Forest-XGBoost)
+* 🔗 **[Live Demo on Streamlit](https://sh-government-fraud-detection-system.streamlit.app/)**
+* **Core Value**: Minimized budget leakage by identifying high-risk transactions with **0.98 Precision & Recall**.
+* **Tech Stack**: SQL, Isolation Forest, XGBoost, **SHAP (XAI)**.
+* **Key Achievement**: Enabled auditors to focus on the **top 2% high-risk cases**, significantly reducing manual audit overhead.
 
 ### 👁️ [Industrial Surface Defect Detection (Computer Vision)](https://github.com/Seokyoung-Hwang-AI/Image-Classification-Transfer-Learning/tree/main/02_Industrial_Defect_Detection)
-* 🚀 **[Live Demo on Streamlit Cloud](https://sh-industrial-surface-defect-detection.streamlit.app/)**
-* **Goal**:  Developed an automated inspection system for 6 steel defect types.
-* **Tech**: Python, TensorFlow, Keras, CNN, Transfer Learning, **Grad-CAM (XAI)**.
-* **Impact**: Achieved **99% Accuracy and F1-score**, providing **visual evidence** for model decisions.
+* 🔗 **[Live Demo on Streamlit](https://sh-industrial-surface-defect-detection.streamlit.app/)**
+* **Core Value**: Automated inspection for 6 steel defect types with **99% Accuracy & F-1 score**.
+* **Tech Stack**: Python, TensorFlow, Keras, CNN, Transfer Learning, **Grad-CAM (XAI)**.
+* **Key Achievement**: Provided **visual evidence (Heatmaps)** for model decisions, increasing trust in automated quality control.
 
 ### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
-* 🚀 **[Live Demo on Streamlit Cloud](https://sh-bank-churn-prediction.streamlit.app/)**
-* **Goal**: Identify at-risk customers to improve retention rates.
-* **Tech**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
-* **Insight**: Delivered **actionable insights** on customer behavior patterns using a high-performance ensemble model.
+* 🔗 **[Live Demo on Streamlit](https://sh-bank-churn-prediction.streamlit.app/)**
+* **Core Value**: Proactive customer retention strategy with **0.92 ROC-AUC score** using high-performance ensemble modeling.
+* **Tech Stack**: XGBoost, CatBoost, LightGBM, Soft-Voting Ensemble.
+* **Key Achievement**: Delivered **actionable behavioral insights** to improve retention rates.
 
 ---
 
 ## 🛠️ Technical Toolkit
 * **Languages**: Python, SQL (MySQL)
-* **Data Science**: Pandas, NumPy, Scikit-learn, XGBoost, **SHAP (XAI)**, **Grad-CAM (XAI)**
-* **Deep Learning**: TensorFlow, Keras, **Transfer Learning**
+* **AI & Machine Learning**: Scikit-learn, XGBoost, **Explainable AI (SHAP, Grad-CAM)**
+* **Deep Learning**: TensorFlow, Keras, **Transfer Learning (Computer Vision)**
+* **Data Engineering & Ops**: Pandas, NumPy, **Streamlit (Deployment)**
 
 ---
 
-## 📬 Connect with me
+## 📬 Let's Connect!
 * **LinkedIn**: [linkedin.com/in/seokyoung-hwang-ai](https://www.linkedin.com/in/seokyoung-hwang-ai)
 * **Email**: seokyoung.hwang@outlook.com
