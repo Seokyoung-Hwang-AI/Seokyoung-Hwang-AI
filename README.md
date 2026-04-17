@@ -1,7 +1,9 @@
 # Hi, I'm Seokyoung Hwang 👋
-### AI & Solutions Engineer | XAI (SHAP, Grad-CAM) | U.S. Permanent Resident
+### Data & Operations Analyst | Supply Chain & Risk Strategy | U.S. Permanent Resident
 
-I am an **AI & Solutions Engineer** dedicated to bridging the gap between complex machine learning models and real-world business strategy. With a strong background in **Artificial Intelligence (B.E.)** and **extensive professional domain expertise**, I build high-precision systems that ensure **financial integrity and operational efficiency.**
+I am a data-driven professional dedicated to bridging the gap between advanced analytics and real-world business strategy. With **7+ years of professional domain expertise** and a **B.E. in Artificial Intelligence**, I specialize in building high-precision analytical tools that ensure financial integrity and operational efficiency.
+
+My focus is on **Explainable Analytics**—transforming complex data into transparent, actionable insights for strategic decision-making.
 
 ---
 
