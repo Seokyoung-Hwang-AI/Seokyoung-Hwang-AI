@@ -28,7 +28,7 @@ Proactive decision-making through high-performance predictive modeling.
 * 🔗 **[Live Demo on Streamlit](https://sh-bank-churn-prediction.streamlit.app/)**
 * **Core Value**: Secured revenue streams with **0.92 ROC-AUC score predictive model**.
 * **Business Impact**: Delivered **actionable behavioral insights** to optimize marketing ROI and improve customer retention rates.
-* **Tech Stack**: XGBoost, CatBoost, LightGBM (Ensemble Learning)
+* **Tech Stack**: XGBoost, CatBoost, LightGBM (Ensemble Learning).
 
 ---
 
