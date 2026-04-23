@@ -1,42 +1,38 @@
 # Hi, I'm Seokyoung Hwang 👋
-### Operations & Data Specialist | AI Engineering | U.S. Permanent Resident
+### Operations & Data Specialist | Bridging $3B Experience with AI-Driven Solutions
+📍 Vancouver, WA | U.S. Permanent Resident
 
-I am a data-driven professional with **7 years of domain expertise** in budget management and risk mitigation, combined with a **B.E. in Artificial Intelligence**. 
-
-I specialize in building high-precision analytical tools that ensure operational efficiency and financial integrity through **Explainable Analytics**.
+I am a data-driven professional with 7 years of domain expertise in **$3B budget management**, combined with a **B.E. in Artificial Intelligence**. I specialize in building high-precision analytical tools that transform complex data into **actionable operational strategies**.
 
 ---
 
-## 🚀 Technical Portfolio: Data-Driven Business Solutions
+## 🚀 Featured Projects: Technical Solutions for Real-World Impact
 
 ### 🛡️ [Government Expenditure Fraud Detection (FDS)](https://github.com/Seokyoung-Hwang-AI/Fraud-Detection-System-Isolation-Forest-XGBoost)
-7 years of Risk & Budget management expertise automated through Data Science.
 * 🔗 **[Live Demo on Streamlit](https://sh-government-fraud-detection-system.streamlit.app/)**
-* **Core Value**: Prevented budget leakage by identifying high-risk transactions with **98% Precision & Recall**.
-* **Business Impact**: **Reduced manual audit overhead by 98%** by enabling auditors to focus exclusively on **the top 2% high-risk cases**.
-* **Tech Stack**: **SQL (Data Extraction)**, Python, XGBoost, **SHAP (Explainable AI)**.
+* **Impact**: Designed an automated risk management solution to identify cost leakage and payment anomalies, achieving **0.98 Precision/Recall** using XGBoost & Isolation Forest
+* **Value**: Integrated **Explainable AI (SHAP)** to provide interpretable "risk factors," reducing manual review time for auditors and ensuring the integrity of public funds
+* **Tech Stack**: SQL, Python, XGBoost, **SHAP (Explainable AI)**.
 
 ### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
-Proactive decision-making through high-performance predictive modeling.
 * 🔗 **[Live Demo on Streamlit](https://sh-bank-churn-prediction.streamlit.app/)**
-* **Core Value**: Secured revenue streams with **0.92 ROC-AUC score predictive model**.
-* **Business Impact**: Delivered **actionable behavioral insights** to optimize marketing ROI and improve customer retention rates.
-* **Tech Stack**: XGBoost, CatBoost, LightGBM (Ensemble Learning).
+* **Impact**: Conducted **Exploratory Data Analysis (EDA)** to uncover key drivers of customer behavior; engineered a predictive analytics engine to identify at-risk accounts
+* **Value**: Translated complex predictive outputs into a **business-centric dashboard**, providing actionable recommendations for proactive resource planning and ROI optimization
+* **Tech Stack**: XGBoost, CatBoost, LightGBM **(Ensemble Learning)**.
 
 ### 👁️ [Industrial Surface Defect Detection (Computer Vision)](https://github.com/Seokyoung-Hwang-AI/Image-Classification-Transfer-Learning/tree/main/02_Industrial_Defect_Detection)
-Scaling operational efficiency through Automated Visual Inspection.
 * 🔗 **[Live Demo on Streamlit](https://sh-industrial-surface-defect-detection.streamlit.app/)**
-* **Core Value**: Automated identification of 6 critical steel defect types with **99% Accuracy**.
-* **Business Impact**: Provided **visual evidence (Grad-CAM Heatmaps)** for every decision, allowing production managers to trust and scale automated quality control.
+* **Impact**: Developed an automated defect detection pipeline using **transfer learning (99% Accuracy)** and Grad-CAM heatmaps to optimize production quality and supply chain throughput
+* **Value**: Deployed a **real-time monitoring dashboard** for floor managers, enabling data-driven interventions and minimizing production waste
 * **Tech Stack**: Python, TensorFlow, CNN, **Grad-CAM (Actionable Visual Insights)**.
 
 ---
 
 ## 🛠️ Technical Toolkit
-* **Core Languages**: SQL, Python
-* **Data Analytics**: **Predictive Modeling**, Statistical Analysis, **Explainable AI (SHAP, Grad-CAM)**
-* **Business Tools**: **Streamlit (Dashboard Deployment)**, GitHub (Version Control), Excel (Advanced)
-* **AI Frameworks**: Scikit-learn, XGBoost, TensorFlow, Keras
+* **Languages**: SQL, Python
+* **Data Science**: Machine Learning, Statistical Modeling, Anomaly Detection, Predictive Modeling, Deep Learning, **Explainable AI (SHAP, Grad-CAM)**
+* **Domain & Analytics**: Process Optimization, Budget Forecasting, Resource Management, Supply Chain Analytics
+* **Deployment & BI**: Model Deployment (Streamlit), Interactive Dashboards, GitHub
 
 ---
 
