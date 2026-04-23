@@ -11,7 +11,7 @@ I am a data-driven professional with 7 years of domain expertise in **$3B budget
 ### 🛡️ [Government Expenditure Fraud Detection (FDS)](https://github.com/Seokyoung-Hwang-AI/Fraud-Detection-System-Isolation-Forest-XGBoost)
 * 🔗 **[Live Demo on Streamlit](https://sh-government-fraud-detection-system.streamlit.app/)**
 * **Impact**: Designed an automated risk management solution to identify cost leakage and payment anomalies, achieving **0.98 Precision/Recall** using XGBoost & Isolation Forest
-* **Value**: Integrated **Explainable AI (SHAP)** to provide interpretable "risk factors," reducing manual review time for auditors and ensuring the integrity of public funds
+* **Value**: Integrated **Explainable AI (SHAP)** to provide interpretable "risk factors", reducing manual review time for auditors and ensuring the integrity of public funds
 * **Tech Stack**: SQL, Python, XGBoost, **SHAP (Explainable AI)**
 
 ### 📉 [Bank Customer Churn Prediction](https://github.com/Seokyoung-Hwang-AI/Bank-Churn-Prediction-Ensemble)
