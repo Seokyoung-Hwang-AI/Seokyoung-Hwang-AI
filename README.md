@@ -1,5 +1,5 @@
 # Hi, I'm Seokyoung Hwang 👋
-### Operations & Data Specialist | Bridging $3B Experience with AI-Driven Solutions
+### Operations & Data Analyst | Specialist | Bridging $3B Experience with AI-Driven Solutions
 📍 Vancouver, WA | U.S. Permanent Resident
 
 I am a data-driven professional with 7 years of domain expertise in **$3B budget management**, combined with a **B.E. in Artificial Intelligence**. I specialize in building high-precision analytical tools that transform complex data into **actionable operational strategies**.
